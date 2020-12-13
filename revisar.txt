@@ -1,0 +1,4 @@
+administrador tenga el mismo rol que administrador 
+quitarle servicios al organizador
+hace un mapeo de los ts del angular 
+en la siguiente reunion explicar el mapeo desde el servidor al angular
